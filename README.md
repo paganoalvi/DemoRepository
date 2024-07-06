@@ -6,8 +6,8 @@
 (Actualmente estoy aprendiendo programacion orientada a objetos y procesamiento de lenguaje natural)
 - 💞️ I’m looking to collaborate on any project that means to be commited, strategic thinker and that requires team work
 (Estoy interesado en integrarme a cualquier proyecto que demande compromiso,pensamiento estrategico y que requiera trabajo en equipo)
-- 📫 How to reach me: alvapagano819@gmail.com
-(Como contactarme paganoalvaroangel@gmail.com or alvaro.pagano244788@alumnos.info.unlp.edu.ar)
+- 📫 How to reach me:  paganoalvaroangel@gmail.com or alvaro.pagano244788@alumnos.info.unlp.edu.ar
+(Como contactarme)
 
 <!---
 --->
